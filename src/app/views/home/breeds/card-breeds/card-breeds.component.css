@@ -1,0 +1,9 @@
+.card-title {
+    margin-top: 10px
+}
+
+.card-breeds:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+}
